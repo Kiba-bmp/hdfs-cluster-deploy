@@ -1,0 +1,45 @@
+Connecting to namenode via http://team-28-nn:9970/fsck?ugi=team28b&files=1&blocks=1&locations=1&path=%2Fteam28b%2Fhdfs-test.txt
+FSCK started by team28b (auth:SIMPLE) from /127.0.0.1 for path /team28b/hdfs-test.txt at Mon Oct 05 16:46:02 UTC 2026
+
+/team28b/hdfs-test.txt 24 bytes, replicated: replication=3, 1 block(s):  OK
+0. BP-346506605-127.0.1.1-1791213868720:blk_1073741825_1001 len=24 Live_repl=3  [DatanodeInfoWithStorage[10.28.0.12:9966,DS-4630afa0-bb49-42b0-bbb2-8a35885aab96,DISK], DatanodeInfoWithStorage[10.28.0.13:9966,DS-96522a04-2c3d-44bf-a4a2-df0826e9e3ef,DISK], DatanodeInfoWithStorage[127.0.0.1:9966,DS-528f7928-4f50-4f22-abbd-54e3e9f66e8b,DISK]]
+
+
+Status: HEALTHY
+ Number of data-nodes:	3
+ Number of racks:		1
+ Total dirs:			0
+ Total symlinks:		0
+
+Replicated Blocks:
+ Total size:	24 B
+ Total files:	1
+ Total blocks (validated):	1 (avg. block size 24 B)
+ Minimally replicated blocks:	1 (100.0 %)
+ Over-replicated blocks:	0 (0.0 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	3
+ Average block replication:	3.0
+ Missing blocks:		0
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Blocks queued for replication:	0
+
+Erasure Coded Block Groups:
+ Total size:	0 B
+ Total files:	0
+ Total block groups (validated):	0
+ Minimally erasure-coded block groups:	0
+ Over-erasure-coded block groups:	0
+ Under-erasure-coded block groups:	0
+ Unsatisfactory placement block groups:	0
+ Average block group size:	0.0
+ Missing block groups:		0
+ Corrupt block groups:		0
+ Missing internal blocks:	0
+ Blocks queued for replication:	0
+FSCK ended at Mon Oct 05 16:46:02 UTC 2026 in 6 milliseconds
+
+
+The filesystem under path '/team28b/hdfs-test.txt' is HEALTHY

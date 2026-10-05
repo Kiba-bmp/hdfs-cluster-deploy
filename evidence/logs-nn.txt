@@ -1,0 +1,2 @@
+/home/team28b/apps/hadoop/logs/hadoop-team28b-datanode-team-28-nn.log:0
+/home/team28b/apps/hadoop/logs/hadoop-team28b-namenode-team-28-nn.log:0

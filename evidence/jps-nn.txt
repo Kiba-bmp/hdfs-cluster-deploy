@@ -1,0 +1,3 @@
+53000 Jps
+51563 DataNode
+51439 NameNode

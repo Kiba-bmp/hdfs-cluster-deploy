@@ -1,0 +1,82 @@
+Configured Capacity: 152652324864 (142.17 GB)
+Present Capacity: 133954007040 (124.75 GB)
+DFS Remaining: 133953871872 (124.75 GB)
+DFS Used: 135168 (132 KB)
+DFS Used%: 0.00%
+Replicated Blocks:
+	Under replicated blocks: 0
+	Blocks with corrupt replicas: 0
+	Missing blocks: 0
+	Missing blocks (with replication factor 1): 0
+	Low redundancy blocks with highest priority to recover: 0
+	Pending deletion blocks: 0
+Erasure Coded Block Groups: 
+	Low redundancy block groups: 0
+	Block groups with corrupt internal blocks: 0
+	Missing block groups: 0
+	Low redundancy blocks with highest priority to recover: 0
+	Pending deletion blocks: 0
+
+-------------------------------------------------
+Live datanodes (3):
+
+Name: 10.28.0.12:9966 (team-28-00)
+Hostname: team-28-00
+Decommission Status : Normal
+Configured Capacity: 50884108288 (47.39 GB)
+DFS Used: 45056 (44 KB)
+Non DFS Used: 6219075584 (5.79 GB)
+DFS Remaining: 44648210432 (41.58 GB)
+DFS Used%: 0.00%
+DFS Remaining%: 87.74%
+Configured Cache Capacity: 0 (0 B)
+Cache Used: 0 (0 B)
+Cache Remaining: 0 (0 B)
+Cache Used%: 100.00%
+Cache Remaining%: 0.00%
+Xceivers: 0
+Last contact: Mon Oct 05 16:45:51 UTC 2026
+Last Block Report: Mon Oct 05 15:43:30 UTC 2026
+Num of Blocks: 1
+
+
+Name: 10.28.0.13:9966 (team-28-01)
+Hostname: team-28-01
+Decommission Status : Normal
+Configured Capacity: 50884108288 (47.39 GB)
+DFS Used: 45056 (44 KB)
+Non DFS Used: 6212485120 (5.79 GB)
+DFS Remaining: 44654800896 (41.59 GB)
+DFS Used%: 0.00%
+DFS Remaining%: 87.76%
+Configured Cache Capacity: 0 (0 B)
+Cache Used: 0 (0 B)
+Cache Remaining: 0 (0 B)
+Cache Used%: 100.00%
+Cache Remaining%: 0.00%
+Xceivers: 0
+Last contact: Mon Oct 05 16:45:49 UTC 2026
+Last Block Report: Mon Oct 05 15:59:06 UTC 2026
+Num of Blocks: 1
+
+
+Name: 127.0.0.1:9966 (localhost)
+Hostname: team-28-nn
+Decommission Status : Normal
+Configured Capacity: 50884108288 (47.39 GB)
+DFS Used: 45056 (44 KB)
+Non DFS Used: 6216425472 (5.79 GB)
+DFS Remaining: 44650860544 (41.58 GB)
+DFS Used%: 0.00%
+DFS Remaining%: 87.75%
+Configured Cache Capacity: 0 (0 B)
+Cache Used: 0 (0 B)
+Cache Remaining: 0 (0 B)
+Cache Used%: 100.00%
+Cache Remaining%: 0.00%
+Xceivers: 0
+Last contact: Mon Oct 05 16:45:49 UTC 2026
+Last Block Report: Mon Oct 05 15:35:10 UTC 2026
+Num of Blocks: 1
+
+

@@ -1,0 +1,2 @@
+    "NumLiveDataNodes" : 3,
+    "NumDeadDataNodes" : 0,
