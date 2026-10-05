@@ -170,7 +170,9 @@ configs - core-site.xml, hdfs-site.xml и hadoop-env.sh, которые скри
 
 scripts - deploy.sh с подкомандами setup, format, start и verify.
 
-evidence - все материалы проверки: отчёт dfsadmin, вывод fsck, список процессов и подсчёт ошибок в логах по каждому узлу отдельно, состояние Team A до и после работы, а также скриншоты Web UI.
+evidence - все материалы проверки: отчёт dfsadmin, вывод fsck, список процессов и подсчёт ошибок в логах по каждому узлу отдельно, состояние Team A до и после работы.
+
+screenshots - скриншоты Web UI.
 
 ## Как повторить с нуля
 
