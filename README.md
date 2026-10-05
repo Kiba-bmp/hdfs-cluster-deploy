@@ -144,6 +144,9 @@ ssh -N -L 19970:team-28-nn:9970 team28b@2.59.83.133
 и открыть http://localhost:19970.
 
 На 9870 заходить нельзя, это Web UI кластера Team A.
+![overview](images/overview.png)
+![overview](images/overview2.png)
+![datanodes](images/datanodes.png)
 
 ## Логи
 
